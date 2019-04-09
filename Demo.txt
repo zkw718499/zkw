@@ -1,2 +1,3 @@
 debug.log("第一次写入");
 debug.log("第二次写入");
+debug.log("第三次写入");
