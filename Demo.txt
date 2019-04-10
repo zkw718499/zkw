@@ -5,3 +5,4 @@ debug.log("第四次写入");
 debug.log("第五次写入");
 debug.log("第六次写入");
 debug.log("第七次写入");
+debug.log("第八次写入");
